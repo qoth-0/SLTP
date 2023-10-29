@@ -6,6 +6,9 @@ import numpy as np
 from tensorflow.keras.models import load_model
 from PIL import ImageFont, ImageDraw, Image
 
+cv2.setUseOptimized(True)
+cv2.setNumThreads(4)
+
 app = Flask(__name__)
 CORS(app)
 
