@@ -42,7 +42,6 @@ beautifulsoup4==4.12.2
 binaryornot==0.4.4
 bitarray==2.5.1
 bkcharts==0.2
-black==0.0
 bleach==4.1.0
 blinker==1.4
 bokeh==3.2.1
