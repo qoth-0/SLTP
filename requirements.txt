@@ -68,8 +68,6 @@ conda-pack==0.6.0
 conda-package-handling==2.2.0
 conda_package_streaming==0.9.0
 conda-repo-cli==0.0.1
-conda-token==0.4.0
-conda-verify==3.4.2
 contextlib2==21.6.0
 contourpy==1.0.5
 cookiecutter==1.7.3
