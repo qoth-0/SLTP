@@ -57,7 +57,7 @@ charset-normalizer==2.0.4
 chex==0.1.83
 clang==5.0
 cloudpickle==2.2.1
-clyent==1.2.2
+clyent==1.2.1
 colorama==0.4.6
 comm==0.1.2
 comtypes==1.1.14
