@@ -1,5 +1,3 @@
-Sign Language Translation
-종합설계-Capstone Design
 
 <br/>
 <br/>
